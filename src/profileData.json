@@ -1,0 +1,70 @@
+{
+	"landing": {
+		"firstName": "AYECHI",
+		"lastName": "ZIE CHRISTIAN",
+		"phoneNumber": "+225-48136440",
+		"bio": "Je suis étudiant en 4e annee en intelligence artificielle a INSTITUT CERCO Cote d Ivoire.",
+    "email": "zieayechi@gmail.com",
+    "linkedin": "https://linkedin.com/in/zié-ayéchi-9190a7177",
+		"github": "https://github.com/google9-max"
+	},
+	"experience": [
+		{
+				"position": "GitHub Student",
+				"organization": "GitHub",
+				"aboutWork": "Learn on campus community with the support of GitHub.",
+				"fromDate": "May 2020",
+				"toDate": "Present"
+		},
+		{
+			"position": "Web Developer",
+			"organization": "Innovstech",
+			"aboutWork": "Making websites with Wordpress.",
+			"fromDate": "September 2018",
+			"toDate": "October 2018"
+		},
+        {
+			"position": "Monitoring",
+			"organization": "Hôpital Saint Camille de Lellis Bouaké",
+			"aboutWork": "Monitoring data of HIV patients.",
+			"fromDate": "May 2018",
+			"toDate": "May 2019"
+		}
+	],
+	"education": [{
+			"university": "Institut CERCO",
+			"degree": "Bachelor of Science Computing",
+			"fromDate": "August 2018",
+			"toDate": "Present"
+		}
+	],
+	"skills": [{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Javascript"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "C"
+		},
+		{
+			"name": "SQL"
+		}
+	],
+	"interests": {
+		"paragraphOne": "I do bodybuilding in my spare time at any time when I am available.",
+		"paragraphTwo": "Other than that, I like adventure, trying a little bit of everything, extreme sensations."
+	}
+}
